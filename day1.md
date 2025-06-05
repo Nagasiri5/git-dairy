@@ -1,15 +1,17 @@
 📅 Day 1 Learning – Git Introduction
 
 ✅ 1. What is Git?
-.Git is a version control system (VCS).
 
-.It helps developers track, manage, and collaborate on code.
+1.Git is a version control system (VCS).
 
-.You can undo mistakes, revert to previous versions, and work smoothly with your team.
+2.It helps developers track, manage, and collaborate on code.
+
+3.You can undo mistakes, revert to previous versions, and work smoothly with your team.
 
 ✅ 2. Why is Git used in DevOps?
-.Git is used in DevOps for automation and CI/CD pipelines.
 
-.It helps to safely manage code changes.
+1.Git is used in DevOps for automation and CI/CD pipelines.
 
-.Git is essential for team collaboration.
+2.It helps to safely manage code changes.
+
+3.Git is essential for team collaboration.
