@@ -2,8 +2,8 @@
 
 git status
 
-git add diary.txt
+git add 
 
 git commit -m "Message"
 
-git push origin main
+git push 
