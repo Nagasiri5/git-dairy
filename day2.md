@@ -1,3 +1,5 @@
+✅GIT COMMANDS
+
 git status
 
 git add diary.txt
